@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usektogo
 - 👀 I’m interested in Life.
-- 🌱 I’m currently learning about Everything which get my attention.
+- 🌱 I’m learning about Everything which get my attention.
 - 💞️ I’m looking to collaborate on Interesting things.
 - 📫 How to reach me like @usektogo on TW
 
