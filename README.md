@@ -1,4 +1,5 @@
-Hi, I'm Urška 👋
+Hi, I'm Urška.
+
 I work at the intersection of environment, technology, and data.
 
 My interests include environmental monitoring, environmental data systems, open data, and practical digital tools that help transform observations into useful knowledge.
