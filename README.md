@@ -1,4 +1,6 @@
-Hi, I'm Urška.
+### Hi, I'm Urška 👋
+
+**Environmental Researcher | Environmental Data Systems**
 
 I work at the intersection of environment, technology, and data.
 
@@ -8,7 +10,7 @@ Over the years, I have been involved in environmental assessment projects, air q
 
 Alongside my professional work, I explore accessible environmental technologies, sensor-based monitoring, and educational approaches that make environmental data easier to understand and use.
 
-Areas of Interest
+### Areas of Interest
 
 🌍 Environment and sustainability
 
@@ -22,15 +24,14 @@ Areas of Interest
 
 🏫 Education and citizen science
 
-Projects
+### Projects
 
 This GitHub profile contains a collection of environmental monitoring, data visualization, and educational projects developed through ongoing research, experimentation, and collaboration.
 
-Learn More
+### Learn More
 
-🌐 https://ukstudiolab.com
+🌐  [UK Studio Lab](https://www.linkedin.com/in/urska-kugovnik](https://ukstudiolab.com))
 
 ✉️ info@ukstudiolab.com
 
-💼 LinkedIn:
-https://www.linkedin.com/in/urska-kugovnik
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/urska-kugovnik)
