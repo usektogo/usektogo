@@ -1,37 +1,27 @@
-### Hi, I'm Urška 👋
+# Hi, I'm Urška 👋
 
-**Environmental Researcher | Environmental Data Systems**
+**Ecologist · IoT Builder · BSc Environmental Sciences (University of Nova Gorica)**
 
-I work at the intersection of environment, technology, and data.
+Nature shaped me before I began to understand it.
+I build sensor networks because the most direct path from a question to an answer is measurement.
 
-My interests include environmental monitoring, environmental data systems, open data, and practical digital tools that help transform observations into useful knowledge.
+I commute too much and use every spare moment to work towards something closer to the ground.
 
-Over the years, I have been involved in environmental assessment projects, air quality monitoring, renewable energy and grid-related studies, and the development of modern environmental data workflows.
+## What I build
 
-Alongside my professional work, I explore accessible environmental technologies, sensor-based monitoring, and educational approaches that make environmental data easier to understand and use.
+- 🌬️ **AirVibe** — air quality monitoring network across Slovenia. Raspberry Pi, Python, InfluxDB, Grafana. Running 24/7.
+- 🌱 **SoilVibe** — soil microclimate and light monitoring for plants. Currently: basil experiment under LED vs. daylight.
 
-### Areas of Interest
+## How I work
 
-🌍 Environment and sustainability
+Open source. Real hardware. Real data. No simulation.
 
-📊 Environmental data and visualization
+## Links
 
-🌱 Air, soil, and ecosystem observations
+🌐 [ukstudiolab.com](https://ukstudiolab.com)
 
-🍓 Environmental sensing technologies
+✉️ [info@ukstudiolab.com](mailto:info@ukstudiolab.com)
 
-☁️ Open data and digital platforms
+🌬️ [AirVibe network](https://airvibe.info)
 
-🏫 Education and citizen science
-
-### Projects
-
-This GitHub profile contains a collection of environmental monitoring, data visualization, and educational projects developed through ongoing research, experimentation, and collaboration.
-
-### Learn More
-
-🌐  [UK Studio Lab](https://www.linkedin.com/in/urska-kugovnik](https://ukstudiolab.com))
-
-✉️ info@ukstudiolab.com
-
-💼 [Connect on LinkedIn](https://www.linkedin.com/in/urska-kugovnik)
+💼 [LinkedIn](https://www.linkedin.com/in/urska-kugovnik)
