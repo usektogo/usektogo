@@ -1,4 +1,4 @@
-# Hi, I'm Urshka 👋
+# Hi, I'm Urška 👋
 
 **Ecologist · IoT Builder · BSc Environmental Sciences (University of Nova Gorica)**
 
