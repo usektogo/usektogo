@@ -16,6 +16,9 @@ I commute too much and use every spare moment to work towards something closer t
 
 Open source. Real hardware. Real data. No simulation.
 
+## Full project on Hackster.io
+[AirVibe — Distributed Air Quality Network across Slovenia](https://www.hackster.io/usektogo/airvibe-distributed-air-quality-network-across-slovenia-52fbeb)
+
 ## Links
 
 🌐 [ukstudiolab.com](https://ukstudiolab.com)
