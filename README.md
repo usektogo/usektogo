@@ -28,3 +28,5 @@ Open source. Real hardware. Real data. No simulation.
 🌬️ [AirVibe network](https://airvibe.info)
 
 💼 [LinkedIn](https://www.linkedin.com/in/urska-kugovnik)
+
+☕ [Support my work](https://ko-fi.com/ukstudiolab)
