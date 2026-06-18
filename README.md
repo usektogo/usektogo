@@ -31,6 +31,8 @@ Open source. Real hardware. Real data. No simulation.
 
 ☕ [Support my work](https://ko-fi.com/ukstudiolab)
 
+[YouTube](https://youtu.be/vXMPn7Es-UU)
+
 ## Guides
 
 I also put together a PDF guide covering this setup step by step — Tailscale, Nginx, Grafana, iptables proxy. 
